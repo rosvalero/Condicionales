@@ -1,0 +1,22 @@
+body{
+    background-image: url(../images/Fondo.jpg);
+    background-size: 680px 650px;
+}
+
+button{
+    display: flex;
+    margin: auto;
+    margin-top: 200px;
+    width: 250px;
+    height: 55px;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+}
+
+button:hover{
+    background-color: #7fffd4bd;
+}
+
+
+
